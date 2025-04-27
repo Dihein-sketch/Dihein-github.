@@ -1,1 +1,1 @@
-xbox.com/en-US?
+xbox.com/en-US/
